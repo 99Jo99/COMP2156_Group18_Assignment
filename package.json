@@ -1,0 +1,14 @@
+{
+    "name": "workflows",
+    "version": "1.0.0",
+    "description": "COMP2156 Assignment 1",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\"",
+      "ci": "echo \"Error: no ci configured\""
+    },
+    "keywords": [],
+    "author": "Group 18",
+    "license": "ISC"
+  }
+  
