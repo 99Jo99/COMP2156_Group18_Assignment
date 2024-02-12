@@ -1,0 +1,3 @@
+This is the devops course. It is a fun course that teaches me how to navigate
+through github and use the command functions on gitbash and visual studio.
+
