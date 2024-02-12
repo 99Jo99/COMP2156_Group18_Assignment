@@ -8,7 +8,7 @@ processes and tooling. Initial steps usually include Continuous integration and 
 DevOps adoption is growing rapidly. IDC forecasts the worldwide DevOps software market to reach $6.6 billion in 2022, 
 up from $2.9 billion in 2017. The forces driving DevOps adoption include enterprise investments in software-driven innovation, 
 adoption of microservices-based architectures and associated development methodologies, and increased investment by CTOs and CEOs 
-in collaborative and automated application development and operational processes, says IDC analyst Stephen Elliot.
+in collaborative and automated application development and operational processes, says IDC analyst Stephen Elliot...
 
 
 
