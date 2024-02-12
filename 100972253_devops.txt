@@ -1,3 +1,4 @@
 This is the devops course. It is a fun course that teaches me how to navigate
-through github and use the command functions on gitbash and visual studio.
+through github and use the command functions on gitbash and visual studio. I
+have learned many thing is in this course. It is fun and exciting.
 
