@@ -1,0 +1,10 @@
+The COMP2156 DevOps course at George Brown College aims to provide students with both foundational and advanced understanding of DevOps practices, tools, and culture.
+It focuses on critical areas such as Continuous Integration (CI), Continuous Deployment (CD), cloud services, infrastructure as code, and monitoring.
+The course is designed to prepare students for streamlining software development and operational processes.
+Students will engage in a combination of theoretical lessons and practical labs throughout the course.
+They will gain hands-on experience with tools such as Jenkins, Docker, Kubernetes, and Ansible.
+The course concludes with a capstone project, allowing students to apply their acquired knowledge to real-world problems.
+Completing this course ensures students are ready to enter the industry with relevant DevOps skills.
+Industry Demand: The demand for DevOps professionals has been consistently high in recent years, reflecting the ongoing digital transformation in many industries. A strong job market can increase the likelihood of employment post-graduation.
+Course Quality and Relevance: Programs that offer up-to-date curriculum, hands-on experience with current tools, and real-world projects tend to prepare students better for the workforce, potentially leading to higher success rates.
+Student Commitment: Success in DevOps also depends on the student's commitment to learning and applying the concepts, participating in projects, and continuing education even after the course ends.
