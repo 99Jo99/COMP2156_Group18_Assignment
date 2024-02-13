@@ -5,3 +5,5 @@ Students will engage in a combination of theoretical lessons and practical labs 
 They will gain hands-on experience with tools such as Jenkins, Docker, Kubernetes, and Ansible.
 The course concludes with a capstone project, allowing students to apply their acquired knowledge to real-world problems.
 Completing this course ensures students are ready to enter the industry with relevant DevOps skills.
+
+Industry Demand: The demand for DevOps professionals has been consistently high in recent years, reflecting the ongoing digital transformation in many industries. A strong job market can increase the likelihood of employment post-graduation.
