@@ -5,3 +5,5 @@ am getting smarter and smarter.
 Also, I this class teaches you about github and the intricicies of development
 operations and how to manage large and minor scale projects using eficient 
 methods.
+
+There is much more to learn in the future of this course.
