@@ -1,7 +1,7 @@
 Group members:
 Dang, Huy Hoang
 Kodida, John
-Nguyen, Minh Cuong
+Minh Cuong, Nguyen
 Park, Eden
 Tran, Terrence
 
