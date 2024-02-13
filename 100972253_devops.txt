@@ -3,3 +3,5 @@ through github and use the command functions on gitbash and visual studio. I
 have learned many thing is in this course. It is fun and exciting. My teacher
 is a fun and cool guy that I like to learn things with.
 
+The course has many ways to teach us about the different methods to get around
+using all the ways to manage and organize code and integrations tactics.
