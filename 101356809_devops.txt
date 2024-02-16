@@ -1,0 +1,2 @@
+The COMP 2156 DevOps course at George Brown College offers an in-depth look into DevOps, covering CI/CD, cloud computing, and key tools like Jenkins, Docker, Kubernetes, and Ansible through theory and practical labs.
+It prepares students for efficient collaboration in software development and operations, readying them for real-world DevOps applications.
