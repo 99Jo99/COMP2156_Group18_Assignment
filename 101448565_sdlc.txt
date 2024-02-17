@@ -1,4 +1,4 @@
-~DevOps—the amalgamation of development (Dev) and operations (Ops) teams—is an organizational approach 
+DevOps—the amalgamation of development (Dev) and operations (Ops) teams—is an organizational approach 
 that enables faster development of applications and easier maintenance of existing deployments. 
 By enabling organizations to create stronger bonds between Dev, Ops and other stakeholders in the company, 
 DevOps promotes shorter, more controllable iterations through the adoption of best practices, automation and new tools. DevOps is not a technology per se, 
