@@ -1,0 +1,9 @@
+Devops is very important to learn so that we may better understand the 
+development operations better. THe mroe I learn about this the more I feel I
+am getting smarter and smarter.
+
+Also, I this class teaches you about github and the intricicies of development
+operations and how to manage large and minor scale projects using eficient 
+methods.
+
+There is much more to learn in the future of this course.
